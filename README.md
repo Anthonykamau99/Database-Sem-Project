@@ -1,4 +1,4 @@
-#COMMUNITY HEALTH AND NUTRITION DATABASE
+COMMUNITY HEALTH AND NUTRITION DATABASE
 Project Overview
 This project involves designing a Community Health and Nutrition Database to manage and track health initiatives addressing malnutrition and food accessibility in Kenyan communities. It aligns with SDG 2 (Zero Hunger) and SDG 3 (Good Health and Well-being) to support sustainable health interventions.
 
